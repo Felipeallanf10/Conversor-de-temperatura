@@ -1,0 +1,20 @@
+* {
+  margin: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+body main .select {
+  display: flex;
+  flex-direction: row;
+}
+.container,
+.box {
+  display: flex;
+  flex-direction: column;
+}
+
+.sinalIgual{
+  display: flex;
+  justify-content: center;
+}
